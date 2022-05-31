@@ -1,4 +1,6 @@
-Electrical Enginering student, interested in learning about datascience and machine learning.
+⚡ Electrical Enginering student.
+
+📚 learning about datascience and machine learning.
 
 <!---
 Yuri-Vlasqz/Yuri-Vlasqz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

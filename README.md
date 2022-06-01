@@ -2,7 +2,7 @@
 
 💻 Knowledge of C and Python programming languages.
 
-🛠️ Experience with project development using Arduino.
+🛠️ Experience with projects using Arduino.
 
 📚 Learning about datascience and machine learning.
 

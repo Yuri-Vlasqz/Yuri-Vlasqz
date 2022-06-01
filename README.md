@@ -1,6 +1,6 @@
 ⚡ Electrical Enginering student.
 
-💻 knowledge of C and python programming languages.
+💻 Knowledge of C and Python programming languages.
 
 🛠️ Experience with project development using Arduino.
 

@@ -4,7 +4,7 @@
 
 🛠️ Experience with projects using Arduino.
 
-📚 Learning about datascience and machine learning.
+📚 Learning about data science, machine learning and computer vision.
 
 <!---
 Yuri-Vlasqz/Yuri-Vlasqz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

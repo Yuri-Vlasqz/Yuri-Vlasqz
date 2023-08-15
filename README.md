@@ -1,4 +1,4 @@
-⚡ Electrical engineer with emphasis on electronics and computers.
+⚡ Electrical engineer with emphasis on electronics and computers, graduated from PUC-Rio.
 
 💻 Knowledge of C and Python programming languages.
 

@@ -1,4 +1,4 @@
-⚡ Electrical Enginering student.
+⚡ Electrical Engineer.
 
 💻 Knowledge of C and Python programming languages.
 

@@ -1,4 +1,4 @@
-⚡ Electrical Engineer.
+⚡ Electrical engineer with emphasis on electronics and computers.
 
 💻 Knowledge of C and Python programming languages.
 

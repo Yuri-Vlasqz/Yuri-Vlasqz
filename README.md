@@ -1,8 +1,8 @@
-⚡ Electrical engineer with emphasis on electronics and computers, currently attending a postgraduate course in software engineering.
+⚡ Electrical and electronic engineer, currently attending a postgraduate course in software engineering.
 
 💻 Knowledge of C, Python and Javascript programming languages.
 
-🛠️ Experience with hardware prototyping using Arduino.
+🛠️ Experience with hardware prototyping using Arduino, solar power systems and technical support.
 
 📚 Learning and applying projects about data science, computer vision and full Stack development.
 

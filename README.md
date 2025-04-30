@@ -8,9 +8,8 @@
 
 📚 Learning and applying projects about data science, computer vision and full Stack development.
 
-<br>
 
-# Language and Technologies:
+# Languages and Technologies:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Vlasqz&size_weight=0.5&count_weight=0.5&hide=Jupyter+Notebook&layout=donut&theme=transparent) -->
 <p align="start">
     <a href="https://github.com/anuraghazra/github-readme-stats">

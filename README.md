@@ -4,7 +4,7 @@
 
 💻 Knowledge of C, Python and Javascript programming languages.
 
-🛠️ Experience with hardware prototyping using Arduino, solar power systems and technical support.
+🛠️ Experience with solar power systems, technical support and hardware prototyping using Arduino.
 
 📚 Learning and applying projects about data science, computer vision and full Stack development.
 
